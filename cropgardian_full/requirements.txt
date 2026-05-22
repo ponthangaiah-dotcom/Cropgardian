@@ -6,7 +6,7 @@ Werkzeug==3.0.3
 SQLAlchemy==2.0.31
 Pillow==10.4.0
 torch==2.9.0
-torchvision==0.18.1
+torchvision==0.24.0
 numpy==1.26.4
 gunicorn==22.0.0
 python-dotenv==1.0.1
